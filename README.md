@@ -3,8 +3,8 @@
 
 Denne er eksportert fra Zotero med betterbibtex.
 
-# Kommentarer
+## Kommentarer
 Alt som står utenfor @noe { forfatter: Anders Fannemel } blir å regne som kommentarer
 
-# Siteringsord (citekeys)
+## Siteringsord (citekeys)
 De er ikke endret noe fra Zotero-eksporten, og er derfor sikkert ikke hensiktsmessige. En ok regel er å ha hovedforfatter + årstall for publisering.
